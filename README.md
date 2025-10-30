@@ -1,6 +1,6 @@
-# HRanalysis
-HR Analysis of a Company
-
+# HR Analysis Dashboard
+Attrition Analysis of a Company
+![HR Analytics Dashboard](HR%20Analytics%20Dashboard.png)
 This is an interactive Power BI Dashboard that shows attrition trends based on:
   Education Field
   Gender
